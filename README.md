@@ -12,8 +12,8 @@ It implements an event-driven pipeline on AWS: when a new product review CSV is 
 Components:
 
 - **S3**  
-  - Landing bucket: `handsonfinallanding`  
-  - Processed bucket: `handsonfinalprocessed`
+  - Landing bucket: `1handsonfinallanding`  
+  - Processed bucket: `1handsonfinalprocessed`
 - **AWS Lambda**
   - Function: `start_glue_job_trigger`
 - **AWS Glue**
