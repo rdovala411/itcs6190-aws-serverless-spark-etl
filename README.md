@@ -48,8 +48,8 @@ Each query writes its results as Parquet to a subfolder under `Athena Results/` 
 
 ## 📸 Screenshots
 
-
-```markdown
-![S3 Buckets](screenshots/L13_S3.PNG )
-![Glue Job Runs](screenshots/glue_job_run.png)
-![Processed Outputs](screenshots/processed_results.png)
+![S3 Buckets](L13_S3.png )
+![Glue Job Runs](L13_GLUE.png)
+![Processed Outputs](L13_PROCESSED.png)
+![Lambda](L13_LAMBDA.png)
+![Athena Results](L13_ATHENARESULT.png)
